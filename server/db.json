@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Mahesh",
+      "email": "maheshmath023.com",
+      "phone": "9620074410"
+    },
+    {
+      "id": 3,
+      "name": "pramod",
+      "email": "pramod@ahoo.com",
+      "phone": "63254178"
+    },
+    {
+      "name": "Chidu",
+      "email": "Chidu@gmail.com",
+      "phone": "96325874",
+      "id": 4
+    },
+    {
+      "name": "anand",
+      "email": "anandms670@gmail.com",
+      "phone": "8277348111",
+      "id": 5
+    },
+    {
+      "name": "Mahesh",
+      "email": "Bithdayboy@gmail.com",
+      "phone": "1234569874",
+      "id": 6
+    }
+  ]
+}
